@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test script" max_length="40" name="x_58872_needit_test_script" sizeclass="2" type="collection">
+        <element default="example@email.com" label="Address" max_length="100" name="address" type="string"/>
+        <element default="John" label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Hello" max_length="40" name="hello" type="glide_date_time"/>
+        <element default="Doe" label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Test Field Name" max_length="80" name="test_field_name" type="field_name"/>
+    </element>
+</database>
